@@ -10,3 +10,10 @@ print(dir(image))
 cv2.imshow("Window title", image)
 cv2.waitKey(0)                      # 함수 매개 변수로 넣는 키 입력 대기 시간은 ms 단위이고 0이면 무한대기이다
 cv2.destroyAllWindows()
+
+##
+##
+##
+##
+##
+##
